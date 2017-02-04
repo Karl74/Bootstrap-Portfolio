@@ -17,7 +17,14 @@
     color: #ffffff;
     padding: 8px;
     border-radius: 2px 2px 2px 2px;
- 
+ }
+
+#whiteBar {
+	background-color: #ffffff;
+	border-bottom: 1px solid #cccccc;
+	width: 100%;
+	height: 70px;
+	overflow: hidden;
 }
 
 .title {
@@ -25,6 +32,7 @@
 	font-weight: normal;
 	border-bottom: 2px solid #c0c0c0;
 }
+
 
 #tealBar {
 	width:100%;
@@ -46,7 +54,7 @@
 }
 
 .social {
-	padding: 0px 0px 0px 0px;
+	padding: 0px 10px 0px 10px;
 }
 
 a:link, a:visited {
@@ -58,4 +66,19 @@ a:hover, a:active {
 	color:red;
 	font-weight: bolder;
 	text-shadow: 2px;
+}
+
+ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 2px;
+}
+
+
+li {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 13px;
+	display: inline;
+	padding: 0px 10px 0px 10px;
 }
