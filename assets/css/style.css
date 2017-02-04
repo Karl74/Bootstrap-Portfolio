@@ -1,0 +1,61 @@
+
+
+.container {
+	background-image: url(../images/sayagata-400px.png);
+
+}
+
+
+
+#linkbar {
+	vertical-align:middle;
+}
+
+#logo {
+    margin: -16px 0px 0px -15px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 2px 2px 2px 2px;
+ 
+}
+
+.title {
+	color:#4aaaa5;
+	font-weight: normal;
+	border-bottom: 2px solid #c0c0c0;
+}
+
+#tealBar {
+	width:100%;
+	height: 4px;
+	background-color:#4aaaa5;
+}
+
+
+#grayBar {
+	width:100%;
+	height: 70px;
+	background-color:#555555;
+}
+
+.bannerFoot {
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.social {
+	padding: 0px 0px 0px 0px;
+}
+
+a:link, a:visited {
+	color:#777777;
+	text-decoration:none;
+}
+
+a:hover, a:active {
+	color:red;
+	font-weight: bolder;
+	text-shadow: 2px;
+}
