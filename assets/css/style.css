@@ -1,11 +1,6 @@
-
-
 .container {
 	background-image: url(../images/sayagata-400px.png);
-
 }
-
-
 
 #linkbar {
 	vertical-align:middle;
@@ -82,3 +77,77 @@ li {
 	display: inline;
 	padding: 0px 10px 0px 10px;
 }
+
+.banner {
+	width: 207px;
+	margin: 70px 0px 0px 0px;
+}
+
+.bar {
+	background-color:#4aaaa5;
+	width: 210px;	
+}
+
+
+#hangman {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/hang.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+
+#rpg {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/rpg.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#trivia {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/trivia.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#rutgers {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/rutgers.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#rock {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/rockpaper.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#formcontainer {	
+	margin: 0px 0px 0px 10px;	
+}
+#button {
+	margin: 10px;
+}
+
+ h3{
+    color: #ffffff;
+    font-size: small;
+    font-weight: lighter;
+    padding: 5px;
+    text-align: center;
+}
+
+/* here */
